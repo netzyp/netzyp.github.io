@@ -1,7 +1,11 @@
 remote_theme: pages-themes/hacker@v0.2.0
+title: Neels Notes
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Neels Notes 
+ 
 
 header_pages:
-  - HTB Academy Paths/HTB CPTS/network_enumeration_with_Nmap.md
+  - index.md
+  - htb-academy/index.md
+  - boxes.md
+
