@@ -1,11 +1,21 @@
 remote_theme: pages-themes/hacker@v0.2.0
 title: Neels Notes
+
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
- 
+  - jekyll-remote-theme 
+
+# --- 1. DEFINE YOUR 'PATHS' COLLECTION ---
+collections:
+  paths:
+    output: true 
+    permalink: /paths/:name/ 
+
+
+  boxes:
+    output: true 
+    permalink: /boxes/:name/ 
 
 header_pages:
-  - index.md #Homepage
-  - htb-academy/index.md # The HTB Academy Hub
-  - boxes.md # The HTB Boxes Hub
-
+  - index.md
+  - paths.md       # Link to the main Paths Index page
+  - boxes.md       # Link to the main Boxes Index page
