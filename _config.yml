@@ -4,18 +4,21 @@ title: Neels Notes
 plugins:
   - jekyll-remote-theme 
 
-
+# --- PATHS COLLECTION DEFINITIONS ---
 collections:
-  paths:
+  cpts_modules: # New collection for CPTs notes
     output: true 
-    permalink: /paths/:name/ 
-
-
-  boxes:
+    permalink: /paths/cpts/:name/ 
+  ai_modules:   # New collection for AI notes
+    output: true 
+    permalink: /paths/ai/:name/ 
+  boxes:      # Keep the existing boxes collection
     output: true 
     permalink: /boxes/:name/ 
 
+# --- HEADER NAVIGATION LINKS ---
 header_pages:
   - index.md
-  - paths.md       # Link to the main Paths Index page
-  - boxes.md       # Link to the main Boxes Index page
+  - cpts_index.md    # Link to the CPTs Module listing page
+  - ai_index.md      # Link to the AI Module listing page
+  - boxes.md
