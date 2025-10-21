@@ -4,7 +4,7 @@ title: Neels Notes
 plugins:
   - jekyll-remote-theme 
 
-# --- 1. DEFINE YOUR 'PATHS' COLLECTION ---
+
 collections:
   paths:
     output: true 
