@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Reconnaissance Techniques
+title: Network Enumeration with Nmap
 module_num: 1 # <-- CRITICAL for ordering and display!
 status: Complete
 ---
 
-# CPTs Module 1: Passive Reconnaissance Notes
+# CPTs Module 1: Network Enumeration with Nmap
 
-Detailed notes on WHOIS, DNS enumeration, and OSINT.
+Testing if this works
 
 [<< Back to CPTs Index](/cpts/)
