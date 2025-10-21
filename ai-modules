@@ -1,0 +1,11 @@
+---
+layout: default
+title: AI Red Teamer Module 3 - LLM Hacking
+permalink: /ai-modules/llm-hacking/
+---
+
+# LLM Hacking Notes
+
+Covers prompt injection, data extraction, and fine-tuning manipulation.
+
+[**<< Back to AI Red Teamer Index**](/paths/htb-ai-red-teamer/)
