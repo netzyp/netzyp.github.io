@@ -1,15 +1,14 @@
-# File: _paths/htb-cpts.md
-
 ---
 layout: default
-title: HTB CPTs Path Notes
-level: Expert
+title: Certified Penetration Tester (CPTs)
 status: 50% Complete
 ---
 
-# HTB Certified Penetration Tester (CPTS)
-
-This collection item serves as the index for my CPTs notes.
+# HTB CPTs Path Notes
 
 ## Module 1: Reconnaissance
-[Go to detailed notes on Passive Reconnaissance](/paths/passive-recon-cpts/)
+> TIP: Always check the HTTP headers first.
+
+Code block example:
+```bash
+nmap -sC -sV 10.10.10.10
