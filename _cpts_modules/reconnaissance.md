@@ -1,11 +1,12 @@
 ---
 layout: default
-title: CPTs Module 1 - Reconnaissance
-permalink: /cpts-modules/reconnaissance/
+title: Reconnaissance Techniques
+module_num: 1 # <-- CRITICAL for ordering and display!
+status: Complete
 ---
 
 # CPTs Module 1: Passive Reconnaissance Notes
 
-Detailed notes on DNS enumeration, WHOIS lookups, and OSINT.
+Detailed notes on WHOIS, DNS enumeration, and OSINT.
 
-[**<< Back to CPTs Module Index**](/paths/htb-cpts/)
+[<< Back to CPTs Index](/cpts/)
