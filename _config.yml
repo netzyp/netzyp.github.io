@@ -4,4 +4,4 @@ plugins:
 title: Neels Notes 
 
 header_pages:
-  - HTB Academy Paths/HTB CPTS
+  - HTB Academy Paths/HTB CPTS/network_enumeration_with_Nmap.md
