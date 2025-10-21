@@ -5,7 +5,7 @@ plugins:
  
 
 header_pages:
-  - index.md
-  - htb-academy/index.md
-  - boxes.md
+  - index.md #Homepage
+  - htb-academy/index.md # The HTB Academy Hub
+  - boxes.md # The HTB Boxes Hub
 
