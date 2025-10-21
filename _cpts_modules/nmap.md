@@ -7,6 +7,11 @@ status: Complete
 
 # CPTs Module 1: Network Enumeration with Nmap
 
-Testing if this works
+Nmap is a network and security analysis tool with a variety of different scans such as:
+- Host Discovery
+- Port Scanning
+- Service enumeration and Detection
+- OS Detection
+- Scriptable interaction with the target service (Nmap scripting engine)
 
 [<< Back to CPTs Index](/cpts/)
