@@ -8,6 +8,5 @@ permalink: /htb-academy/cpts/ # Sets the URL to /htb-academy/cpts/
 
 ## Module Notes
 
-- [Reconnaissance: Initial Setup](/htb-academy/cpts/recon-setup/)
-- [Web Attacks: SQL Injection Deep Dive](/htb-academy/cpts/sql-injection-deep-dive/)
+- [Network Enumaration With Nmap](/htb-academy/cpts/network_enum_with_nmap/)
 - [Active Directory Attacks]
