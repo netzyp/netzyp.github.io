@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Network Enumeration with Nmap
-module_num: 1 # <-- CRITICAL for ordering and display!
+title: Windows Privilege Escalation
+module_num: 24 # <-- CRITICAL for ordering and display!
 status: Complete
 ---
 
-# CPTs Module 1: Network Enumeration with Nmap
+# CPTs Module 24: Windows Privilege Escalation
+
